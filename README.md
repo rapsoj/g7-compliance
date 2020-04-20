@@ -1,4 +1,4 @@
-# g7-compliance
+# G7 Compliance Research
 Data and analysis notebooks for G7 article "Increasing the Impact of G7 Summits"
 
 *analysis-notebooks*
