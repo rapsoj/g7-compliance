@@ -1,5 +1,5 @@
 # G7 Compliance Research 2019
-Data and analysis notebooks for G7 article "Increasing the Impact of G7 Summits"
+Data and analysis notebooks for G7 article "Challenges with Increasing G7 Effectiveness"
 
 *analysis*
 - Contains all data and code needed to run the analysis
